@@ -6,3 +6,8 @@ Personal development log — notes, findings, and ongoing work.
 - Checked for memory leaks in long-running path
 - Tidied up project structure
 - Cross-checked behaviour against spec
+
+## 2026-04-08
+- Consolidated duplicate helper functions
+- Removed unused variable declarations
+- Resolved TODO items from previous session
