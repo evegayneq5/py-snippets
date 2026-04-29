@@ -11,3 +11,8 @@ Personal development log — notes, findings, and ongoing work.
 - Consolidated duplicate helper functions
 - Removed unused variable declarations
 - Resolved TODO items from previous session
+
+## 2026-04-29
+- Noted known limitation in docs
+- Bumped patch version
+- Documented config options
