@@ -16,3 +16,8 @@ Personal development log — notes, findings, and ongoing work.
 - Noted known limitation in docs
 - Bumped patch version
 - Documented config options
+
+## 2026-04-29
+- Improved log message formatting
+- Reviewed open issues, added labels
+- Cleaned up old debug logs
